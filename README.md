@@ -9,7 +9,7 @@ Personally I use this boilerplate to test markup or do quick tests, essentially 
 
 # How to use
 In order to run the boilerplate you need to :
-
+* Install Node.js if you don't have it
 * Run `npm install`
 * Run `gulp`
 
